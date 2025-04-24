@@ -17,7 +17,7 @@ Some other names you might've seen me online:
 * 💻 Hobbyist developer and reverser
 * 🎮 Making Minecraft clients
 * 🍿 Widevine tinkerer
-* 💬 Creator of VibRe (wip, private)
+* 💬 Creator of Vibe+ (wip, private)
 * 🗝️ Hates DRM and obfuscation
 * 😡 Most annoying guy of all time
 
