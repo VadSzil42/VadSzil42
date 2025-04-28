@@ -23,5 +23,7 @@ Some other names you might've seen me online:
 
 Anyways, that's it. I am not that active on GitHub, if you want to contact me, please click **[here](https://solidwild.yrs.lol)**.
 
+(i love markdown)
+
 <br /> <br /> <br /> <br /> <br /> 
 [some top secret shit you are not supposed to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
