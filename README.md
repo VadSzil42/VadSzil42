@@ -21,7 +21,7 @@ Some other names you might've seen me online:
 * 🗝️ Hates DRM and obfuscation
 * 😡 Most annoying guy of all time
 
-Anyways, that's it. I am not that active on GitHub, if you want to contact me, please click **[here](https://solidwild.yrs.lol)**.
+Anyways, that's it. I am not that active on GitHub (or if I do, it is mostly in private repos), so if you want to contact me, please click **[here](https://solidwild.yrs.lol)** instead.
 
 (i love markdown)
 
