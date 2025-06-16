@@ -1,7 +1,7 @@
 # Hi 👋
 
 I am a nerd, and I love cybersec.
-I primarily code in **C/C++**, but I also know Python, HTML, CSS, JS and a bit of Kotlin. I am also learning AutoHotkey, Java and Dart too.
+I primarily code in **C/C++**, but I also know Python, HTML, CSS, JS and a bit of Kotlin. I am also learning AutoHotkey, Java, Rust and Dart too.
 
 Some other names you might've seen me online:
 - solidwild
