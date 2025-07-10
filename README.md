@@ -25,13 +25,13 @@ Anyways, that's it. I am not active on GitHub (I don't check the GitHub website,
 
 (i love markdown)
 
-<br /> <br /> <br /> <br /> <br /> 
-[some top secret shit you are not supposed to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
------BEGIN GEEK CODE BLOCK-----
-Version: 3.12
+<br /> <br /> 
+```
+GeekCode v3.12
 GCS/ED/IT/M d- s:- a---- C++
 UL+++ P+ L++++ E--- W+++ w M- V- Y+
 PGP++ t? 5? X? R tv-- b+ D+++
 G+++ e* h--
-------END GEEK CODE BLOCK------
+```
+<br /> <br /> <br /> 
+[some top secret shit you are not supposed to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
